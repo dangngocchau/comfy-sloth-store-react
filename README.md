@@ -1,12 +1,15 @@
 ## Notes
 
-#### Older React Version
+#### Demo links
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+https://react-course-comfy-sloth-store.netlify.app/
+
+### In this project I use
+
+- ContextAPI for state management
+- Stripe for payment
+- Auth0 for authentication and authorized
+  ......
 
 #### Current React Version
 
